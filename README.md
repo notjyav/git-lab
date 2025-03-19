@@ -5,3 +5,5 @@ This will also cause a conflict.
 =======
 This will cause a conflict.
 >>>>>>> conflict-branch
+Change from another machine
+Change from another machine
